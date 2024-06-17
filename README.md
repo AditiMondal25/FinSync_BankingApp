@@ -1,21 +1,3 @@
-# FinSync_BankingApp
-Sure! Here are a few alternative names for your banking app:
-
-1. **FinSync**
-2. **MoneyMate**
-3. **BankFusion**
-4. **CashFlow**
-5. **WalletWise**
-6. **Bankly**
-7. **FinTrack**
-8. **FundFlex**
-9. **MyFinances**
-10. **FinanceFusion**
-
-Let's go with **FinSync** for the README file:
-
----
-
 # FinSync
 
 FinSync is a cutting-edge banking app with a finance management dashboard that allows users to connect multiple bank accounts, view real-time transactions, and transfer money to other users on the platform. Built with Next.js 14, FinSync provides a seamless and efficient experience for managing your finances.
@@ -28,13 +10,12 @@ FinSync is a cutting-edge banking app with a finance management dashboard that a
   - [Running the App](#running-the-app)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Multi-Bank Account Integration:** Connect and manage multiple bank accounts from one platform.
-- **Real-Time Transactions:** View real-time updates on transactions across all connected accounts.
+- **Real-Time Transactions:** View real-time transaction updates across all connected accounts.
 - **Money Transfers:** Easily transfer money to other users on the platform.
-- **Finance Management Dashboard:** A comprehensive dashboard to monitor and analyze your financial health.
+- **Finance Management Dashboard:** A comprehensive dashboard to monitor and analyze financial health.
 
 ## Getting Started
 
