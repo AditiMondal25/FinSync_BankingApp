@@ -5,9 +5,9 @@ FinSync is a cutting-edge banking app with a finance management dashboard that a
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
