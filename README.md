@@ -5,9 +5,9 @@ FinSync is a cutting-edge banking app with a finance management dashboard that a
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the App](#running-the-app)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the App](#running-the-app)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -82,4 +82,3 @@ We welcome contributions from the community! To contribute to FinSync, follow th
 ---
 
 Thank you for using FinSync! If you have any questions or feedback, please feel free to reach out. Happy managing!
-
