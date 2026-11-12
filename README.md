@@ -21,14 +21,14 @@ FinSync is a cutting-edge banking app with a finance management dashboard that a
 
 ### Prerequisites
 To get started with FinSync, ensure you have the following installed on your machine:
-- Node.js (version 16 or higher)
+- Node.js 18.17 or later (required by Next.js 14)
 - npm (Node Package Manager) or yarn
 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/finsync.git
-   cd finsync
+   git clone https://github.com/AditiMondal25/FinSync_BankingApp.git
+   cd FinSync_BankingApp
    ```
 
 2. Install the dependencies:
